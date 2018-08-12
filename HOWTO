@@ -1,0 +1,2 @@
+sudo apt-get install lua5.3
+lua5.3 hello.lua
